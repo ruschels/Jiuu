@@ -15,10 +15,10 @@ from google.genai import types
 # ==========================================
 # CONFIGURAÇÕES E CHAVES
 # ==========================================
-#CHAVE_GEMINI_PADRAO = "AQ.Ab8RN6LUyBg-UT_Wtz-M3jXjllrvutyyfsWjNppkxl1PcPdNDA"
-#MODELO_GEMINI = "gemini-flash-latest" 
-#API_FISH = "2bc700daad0e478cb67da9d7f89dba75"
-#VOZ_MATHEUS = "8a7a95ba239d4475afcad5dbebb24a48"
+#CHAVE_GEMINI_PADRAO = 
+#MODELO_GEMINI = 
+#API_FISH = 
+#VOZ_MATHEUS = 
 
 # ==========================================
 # FUNÇÕES DE LÓGICA E IA
