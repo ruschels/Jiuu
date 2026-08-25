@@ -1,0 +1,746 @@
+{
+    "audioUrl": "assets/audio_final.mp3",
+    "fps": 30,
+    "animacao": "Zoom In Suave",
+    "transicao": "Crossfade (Suave)",
+    "estiloVisual": "Moderno (Blur Fundo)",
+    "palavras": [
+        {
+            "word": "olha",
+            "start": 0.08,
+            "end": 0.24,
+            "confidence": 0.6176758,
+            "punctuated_word": "Olha"
+        },
+        {
+            "word": "só",
+            "start": 0.24,
+            "end": 0.39999998,
+            "confidence": 0.9951172,
+            "punctuated_word": "só"
+        },
+        {
+            "word": "quando",
+            "start": 0.39999998,
+            "end": 0.71999997,
+            "confidence": 0.73779297,
+            "punctuated_word": "quando"
+        },
+        {
+            "word": "você",
+            "start": 0.71999997,
+            "end": 0.88,
+            "confidence": 1.0,
+            "punctuated_word": "você"
+        },
+        {
+            "word": "está",
+            "start": 0.88,
+            "end": 1.04,
+            "confidence": 0.9838867,
+            "punctuated_word": "está"
+        },
+        {
+            "word": "na",
+            "start": 1.04,
+            "end": 1.36,
+            "confidence": 0.99902344,
+            "punctuated_word": "na"
+        },
+        {
+            "word": "guarda",
+            "start": 1.36,
+            "end": 1.5999999,
+            "confidence": 0.984375,
+            "punctuated_word": "guarda"
+        },
+        {
+            "word": "e",
+            "start": 1.5999999,
+            "end": 1.68,
+            "confidence": 0.99316406,
+            "punctuated_word": "e"
+        },
+        {
+            "word": "o",
+            "start": 1.68,
+            "end": 1.8399999,
+            "confidence": 0.99902344,
+            "punctuated_word": "o"
+        },
+        {
+            "word": "parceiro",
+            "start": 1.8399999,
+            "end": 2.24,
+            "confidence": 0.99902344,
+            "punctuated_word": "parceiro"
+        },
+        {
+            "word": "apoia",
+            "start": 2.24,
+            "end": 2.4,
+            "confidence": 0.9614258,
+            "punctuated_word": "apoia"
+        },
+        {
+            "word": "a",
+            "start": 2.4,
+            "end": 2.56,
+            "confidence": 0.9921875,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "mão",
+            "start": 2.56,
+            "end": 2.8,
+            "confidence": 1.0,
+            "punctuated_word": "mão"
+        },
+        {
+            "word": "no",
+            "start": 2.8,
+            "end": 2.96,
+            "confidence": 0.9970703,
+            "punctuated_word": "no"
+        },
+        {
+            "word": "seu",
+            "start": 2.96,
+            "end": 3.04,
+            "confidence": 1.0,
+            "punctuated_word": "seu"
+        },
+        {
+            "word": "peito",
+            "start": 3.04,
+            "end": 3.36,
+            "confidence": 1.0,
+            "punctuated_word": "peito"
+        },
+        {
+            "word": "ou",
+            "start": 3.36,
+            "end": 3.52,
+            "confidence": 0.99609375,
+            "punctuated_word": "ou"
+        },
+        {
+            "word": "no",
+            "start": 3.52,
+            "end": 3.76,
+            "confidence": 0.9980469,
+            "punctuated_word": "no"
+        },
+        {
+            "word": "chão",
+            "start": 3.76,
+            "end": 4.08,
+            "confidence": 1.0,
+            "punctuated_word": "chão"
+        },
+        {
+            "word": "é",
+            "start": 4.08,
+            "end": 4.24,
+            "confidence": 0.9277344,
+            "punctuated_word": "é"
+        },
+        {
+            "word": "a",
+            "start": 4.24,
+            "end": 4.3199997,
+            "confidence": 0.62597656,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "hora",
+            "start": 4.3199997,
+            "end": 4.56,
+            "confidence": 1.0,
+            "punctuated_word": "hora"
+        },
+        {
+            "word": "exata",
+            "start": 4.56,
+            "end": 4.96,
+            "confidence": 1.0,
+            "punctuated_word": "exata"
+        },
+        {
+            "word": "de",
+            "start": 4.96,
+            "end": 5.04,
+            "confidence": 1.0,
+            "punctuated_word": "de"
+        },
+        {
+            "word": "atacar",
+            "start": 5.04,
+            "end": 5.54,
+            "confidence": 1.0,
+            "punctuated_word": "atacar"
+        },
+        {
+            "word": "faz",
+            "start": 5.7599998,
+            "end": 5.92,
+            "confidence": 0.66259766,
+            "punctuated_word": "faz"
+        },
+        {
+            "word": "a",
+            "start": 5.92,
+            "end": 6.08,
+            "confidence": 0.99316406,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "pegada",
+            "start": 6.08,
+            "end": 6.3999996,
+            "confidence": 0.9941406,
+            "punctuated_word": "pegada"
+        },
+        {
+            "word": "firme",
+            "start": 6.3999996,
+            "end": 6.7999997,
+            "confidence": 0.99609375,
+            "punctuated_word": "firme"
+        },
+        {
+            "word": "no",
+            "start": 6.7999997,
+            "end": 7.04,
+            "confidence": 0.99902344,
+            "punctuated_word": "no"
+        },
+        {
+            "word": "pulso",
+            "start": 7.04,
+            "end": 7.2799997,
+            "confidence": 0.99902344,
+            "punctuated_word": "pulso"
+        },
+        {
+            "word": "dele",
+            "start": 7.2799997,
+            "end": 7.7799997,
+            "confidence": 0.99902344,
+            "punctuated_word": "dele"
+        },
+        {
+            "word": "explode",
+            "start": 7.8399997,
+            "end": 8.16,
+            "confidence": 0.9604492,
+            "punctuated_word": "explode"
+        },
+        {
+            "word": "o",
+            "start": 8.16,
+            "end": 8.32,
+            "confidence": 0.98291016,
+            "punctuated_word": "o"
+        },
+        {
+            "word": "quadril",
+            "start": 8.32,
+            "end": 8.639999,
+            "confidence": 1.0,
+            "punctuated_word": "quadril"
+        },
+        {
+            "word": "pra",
+            "start": 8.639999,
+            "end": 8.88,
+            "confidence": 0.70703125,
+            "punctuated_word": "pra"
+        },
+        {
+            "word": "cima",
+            "start": 8.88,
+            "end": 9.28,
+            "confidence": 1.0,
+            "punctuated_word": "cima"
+        },
+        {
+            "word": "e",
+            "start": 9.28,
+            "end": 9.44,
+            "confidence": 0.9980469,
+            "punctuated_word": "e"
+        },
+        {
+            "word": "passa",
+            "start": 9.44,
+            "end": 9.76,
+            "confidence": 0.9921875,
+            "punctuated_word": "passa"
+        },
+        {
+            "word": "o",
+            "start": 9.76,
+            "end": 9.92,
+            "confidence": 0.99902344,
+            "punctuated_word": "o"
+        },
+        {
+            "word": "braço",
+            "start": 9.92,
+            "end": 10.16,
+            "confidence": 1.0,
+            "punctuated_word": "braço"
+        },
+        {
+            "word": "por",
+            "start": 10.16,
+            "end": 10.32,
+            "confidence": 0.99902344,
+            "punctuated_word": "por"
+        },
+        {
+            "word": "cima",
+            "start": 10.32,
+            "end": 10.559999,
+            "confidence": 1.0,
+            "punctuated_word": "cima"
+        },
+        {
+            "word": "do",
+            "start": 10.559999,
+            "end": 10.719999,
+            "confidence": 1.0,
+            "punctuated_word": "do"
+        },
+        {
+            "word": "ombro",
+            "start": 10.719999,
+            "end": 11.2,
+            "confidence": 1.0,
+            "punctuated_word": "ombro"
+        },
+        {
+            "word": "pra",
+            "start": 11.2,
+            "end": 11.44,
+            "confidence": 0.8959961,
+            "punctuated_word": "pra"
+        },
+        {
+            "word": "travar",
+            "start": 11.44,
+            "end": 11.759999,
+            "confidence": 1.0,
+            "punctuated_word": "travar"
+        },
+        {
+            "word": "a",
+            "start": 11.759999,
+            "end": 11.92,
+            "confidence": 0.9980469,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "chave",
+            "start": 11.92,
+            "end": 12.42,
+            "confidence": 1.0,
+            "punctuated_word": "chave"
+        },
+        {
+            "word": "voltou",
+            "start": 12.48,
+            "end": 12.799999,
+            "confidence": 0.9428711,
+            "punctuated_word": "voltou"
+        },
+        {
+            "word": "pro",
+            "start": 12.799999,
+            "end": 12.96,
+            "confidence": 0.9921875,
+            "punctuated_word": "pro"
+        },
+        {
+            "word": "chão",
+            "start": 12.96,
+            "end": 13.28,
+            "confidence": 1.0,
+            "punctuated_word": "chão"
+        },
+        {
+            "word": "trazendo",
+            "start": 13.28,
+            "end": 13.5199995,
+            "confidence": 0.9970703,
+            "punctuated_word": "trazendo"
+        },
+        {
+            "word": "o",
+            "start": 13.5199995,
+            "end": 13.759999,
+            "confidence": 0.99902344,
+            "punctuated_word": "o"
+        },
+        {
+            "word": "braço",
+            "start": 13.759999,
+            "end": 14.0,
+            "confidence": 1.0,
+            "punctuated_word": "braço"
+        },
+        {
+            "word": "dele",
+            "start": 14.0,
+            "end": 14.32,
+            "confidence": 0.9980469,
+            "punctuated_word": "dele"
+        },
+        {
+            "word": "bem",
+            "start": 14.32,
+            "end": 14.559999,
+            "confidence": 1.0,
+            "punctuated_word": "bem"
+        },
+        {
+            "word": "colado",
+            "start": 14.559999,
+            "end": 14.88,
+            "confidence": 1.0,
+            "punctuated_word": "colado"
+        },
+        {
+            "word": "no",
+            "start": 14.88,
+            "end": 15.04,
+            "confidence": 1.0,
+            "punctuated_word": "no"
+        },
+        {
+            "word": "seu",
+            "start": 15.04,
+            "end": 15.28,
+            "confidence": 1.0,
+            "punctuated_word": "seu"
+        },
+        {
+            "word": "peito",
+            "start": 15.28,
+            "end": 15.735,
+            "confidence": 0.99902344,
+            "punctuated_word": "peito"
+        },
+        {
+            "word": "se",
+            "start": 15.815,
+            "end": 15.8949995,
+            "confidence": 0.99609375,
+            "punctuated_word": "Se"
+        },
+        {
+            "word": "ele",
+            "start": 15.8949995,
+            "end": 16.135,
+            "confidence": 0.99902344,
+            "punctuated_word": "ele"
+        },
+        {
+            "word": "tentar",
+            "start": 16.135,
+            "end": 16.455,
+            "confidence": 1.0,
+            "punctuated_word": "tentar"
+        },
+        {
+            "word": "defender",
+            "start": 16.455,
+            "end": 16.775,
+            "confidence": 1.0,
+            "punctuated_word": "defender"
+        },
+        {
+            "word": "e",
+            "start": 16.775,
+            "end": 16.935,
+            "confidence": 0.9291992,
+            "punctuated_word": "e"
+        },
+        {
+            "word": "esconder",
+            "start": 16.935,
+            "end": 17.255,
+            "confidence": 0.8569336,
+            "punctuated_word": "esconder"
+        },
+        {
+            "word": "na",
+            "start": 17.255,
+            "end": 17.414999,
+            "confidence": 0.9838867,
+            "punctuated_word": "na"
+        },
+        {
+            "word": "mão",
+            "start": 17.414999,
+            "end": 17.814999,
+            "confidence": 0.86035156,
+            "punctuated_word": "mão,"
+        },
+        {
+            "word": "você",
+            "start": 17.814999,
+            "end": 17.975,
+            "confidence": 0.99902344,
+            "punctuated_word": "você"
+        },
+        {
+            "word": "não",
+            "start": 17.975,
+            "end": 18.215,
+            "confidence": 0.99609375,
+            "punctuated_word": "não"
+        },
+        {
+            "word": "perde",
+            "start": 18.215,
+            "end": 18.375,
+            "confidence": 1.0,
+            "punctuated_word": "perde"
+        },
+        {
+            "word": "a",
+            "start": 18.375,
+            "end": 18.875,
+            "confidence": 0.9951172,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "posição",
+            "start": 18.895,
+            "end": 19.395,
+            "confidence": 0.9970703,
+            "punctuated_word": "posição."
+        },
+        {
+            "word": "aproveita",
+            "start": 19.414999,
+            "end": 19.735,
+            "confidence": 0.97265625,
+            "punctuated_word": "Aproveita"
+        },
+        {
+            "word": "a",
+            "start": 19.735,
+            "end": 20.095001,
+            "confidence": 0.99121094,
+            "punctuated_word": "a"
+        },
+        {
+            "word": "alavanca",
+            "start": 20.095001,
+            "end": 20.455,
+            "confidence": 1.0,
+            "punctuated_word": "alavanca"
+        },
+        {
+            "word": "e",
+            "start": 20.455,
+            "end": 20.695,
+            "confidence": 0.9580078,
+            "punctuated_word": "e"
+        },
+        {
+            "word": "já",
+            "start": 20.695,
+            "end": 20.855,
+            "confidence": 1.0,
+            "punctuated_word": "já"
+        },
+        {
+            "word": "transiciona",
+            "start": 20.855,
+            "end": 21.355,
+            "confidence": 0.9529622,
+            "punctuated_word": "transiciona"
+        },
+        {
+            "word": "direto",
+            "start": 21.414999,
+            "end": 21.814999,
+            "confidence": 0.99902344,
+            "punctuated_word": "direto"
+        },
+        {
+            "word": "pra",
+            "start": 21.814999,
+            "end": 21.895,
+            "confidence": 0.94921875,
+            "punctuated_word": "pra"
+        },
+        {
+            "word": "uma",
+            "start": 21.895,
+            "end": 22.134998,
+            "confidence": 0.98535156,
+            "punctuated_word": "uma"
+        },
+        {
+            "word": "homeoplata",
+            "start": 22.134998,
+            "end": 22.634998,
+            "confidence": 0.5713704,
+            "punctuated_word": "homeoplata"
+        },
+        {
+            "word": "ou",
+            "start": 22.855,
+            "end": 23.095,
+            "confidence": 0.58740234,
+            "punctuated_word": "ou"
+        },
+        {
+            "word": "ajusta",
+            "start": 23.095,
+            "end": 23.494999,
+            "confidence": 0.9892578,
+            "punctuated_word": "ajusta"
+        },
+        {
+            "word": "pra",
+            "start": 23.494999,
+            "end": 23.735,
+            "confidence": 0.890625,
+            "punctuated_word": "pra"
+        },
+        {
+            "word": "mandar",
+            "start": 23.735,
+            "end": 23.895,
+            "confidence": 1.0,
+            "punctuated_word": "mandar"
+        },
+        {
+            "word": "uma",
+            "start": 23.895,
+            "end": 24.215,
+            "confidence": 0.99902344,
+            "punctuated_word": "uma"
+        },
+        {
+            "word": "raspagem",
+            "start": 24.215,
+            "end": 24.615,
+            "confidence": 0.9241536,
+            "punctuated_word": "raspagem."
+        },
+        {
+            "word": "é",
+            "start": 24.615,
+            "end": 24.775,
+            "confidence": 0.99902344,
+            "punctuated_word": "É"
+        },
+        {
+            "word": "o",
+            "start": 24.775,
+            "end": 24.855,
+            "confidence": 0.99316406,
+            "punctuated_word": "o"
+        },
+        {
+            "word": "tipo",
+            "start": 24.855,
+            "end": 25.095,
+            "confidence": 1.0,
+            "punctuated_word": "tipo"
+        },
+        {
+            "word": "de",
+            "start": 25.095,
+            "end": 25.335,
+            "confidence": 0.9980469,
+            "punctuated_word": "de"
+        },
+        {
+            "word": "ataque",
+            "start": 25.335,
+            "end": 25.494999,
+            "confidence": 1.0,
+            "punctuated_word": "ataque"
+        },
+        {
+            "word": "da",
+            "start": 25.494999,
+            "end": 25.735,
+            "confidence": 0.9970703,
+            "punctuated_word": "da"
+        },
+        {
+            "word": "kimura",
+            "start": 25.735,
+            "end": 26.134998,
+            "confidence": 0.89086914,
+            "punctuated_word": "Kimura"
+        },
+        {
+            "word": "que",
+            "start": 26.134998,
+            "end": 26.294998,
+            "confidence": 0.9921875,
+            "punctuated_word": "que"
+        },
+        {
+            "word": "funciona",
+            "start": 26.294998,
+            "end": 26.615,
+            "confidence": 1.0,
+            "punctuated_word": "funciona"
+        },
+        {
+            "word": "em",
+            "start": 26.615,
+            "end": 26.775,
+            "confidence": 0.9980469,
+            "punctuated_word": "em"
+        },
+        {
+            "word": "qualquer",
+            "start": 26.775,
+            "end": 27.255,
+            "confidence": 1.0,
+            "punctuated_word": "qualquer"
+        },
+        {
+            "word": "graduado",
+            "start": 27.255,
+            "end": 27.742,
+            "confidence": 0.9791667,
+            "punctuated_word": "graduado."
+        }
+    ],
+    "cenas": [
+        {
+            "startFrame": 40,
+            "durationFrames": 141,
+            "file": "assets/guarda_0_img_1787072049.png",
+            "type": "image",
+            "overlapFrames": 0
+        },
+        {
+            "startFrame": 173,
+            "durationFrames": 598,
+            "file": "assets/pegada_1_img_1787072135.png",
+            "type": "image",
+            "overlapFrames": 9
+        },
+        {
+            "startFrame": 763,
+            "durationFrames": 20,
+            "file": "assets/kimura_2_img_1787078314.png",
+            "type": "image",
+            "overlapFrames": 9
+        }
+    ]
+}
